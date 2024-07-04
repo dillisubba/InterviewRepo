@@ -1,0 +1,15 @@
+.class{
+    background-color: red;
+}
+h1{
+    background-color: green;
+}
+#id{
+    background-color: blue;
+}
+p{
+    background-color: rgb(0, 255, 221);
+    padding: 10px;
+    border-radius: 5% bold 2px;
+    margin: 15px;
+}
